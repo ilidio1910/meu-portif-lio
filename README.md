@@ -1,5 +1,3 @@
-# meu-portif-lio
-Projeto simples de HTML, CSS, JavaScript
 # Meu Portfólio
 
 Este projeto é um portfólio de um tatuador, apresentando seu trabalho e informações de contato. A estrutura do projeto é organizada em pastas para facilitar a manutenção e o desenvolvimento.
